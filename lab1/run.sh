@@ -1,0 +1,6 @@
+#!/bin/bash
+spin -a 1
+gcc pan.c
+./a.out
+./a.out -r 1.trail
+
